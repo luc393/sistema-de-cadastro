@@ -5,5 +5,5 @@
 Para esse projeto rodar na sua maquina, por favor digite:
 
 ...
-npm install react
+mode app.js
 ...
